@@ -12,8 +12,8 @@ models/
     ridge_model.pkl           # Trained Ridge Regression model
     scaler.pkl                # Scaler used for preprocessing
 notebooks/
-    2.0-EDA And FE Algerian Forest Fires.ipynb   # EDA & Feature Engineering
-    3.0-Model Training.ipynb                     # Model Training
+    EDA&FE.ipynb   # EDA & Feature Engineering
+    ModelTraining.ipynb                     # Model Training
     Algerian_forest_fires_cleaned_dataset.csv    # Cleaned dataset
     Algerian_forest_fires_dataset_UPDATE.csv     # Raw/updated dataset
 templates/
